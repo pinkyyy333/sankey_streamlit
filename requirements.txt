@@ -1,0 +1,5 @@
+pandas == 2.2.2
+streamlit ==1.40.1
+pyecharts == 2.0.6
+streamlit-echarts == 0.4.0
+openpyxl == 3.1.5
